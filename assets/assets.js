@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+import logo from "./logo.png";
 import search_icon from "./search_icon.svg";
 import user_icon from "./user_icon.svg";
 import cart_icon from "./cart_icon.svg";
@@ -417,10 +417,10 @@ export const addressDummyData = [
   {
     "_id": "67a1e4233f34a77b6dde9055",
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
-    "fullName": "GreatStack",
-    "phoneNumber": "0123456789",
-    "pincode": 654321,
-    "area": "Main Road , 123 Street, G Block",
+    "fullName": "Nguyen Cuong",
+    "phoneNumber": "0384787848",
+    "pincode": 123456,
+    "area": "Street",
     "city": "City",
     "state": "State",
     "__v": 0
